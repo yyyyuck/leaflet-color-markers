@@ -1,5 +1,5 @@
 var blueIcon = new L.Icon({
-	iconUrl: 'img/marker-icon-2x-2A81CB.png',
+	iconUrl: 'img/marker-icon-2x-1ABC9C.png',
 	shadowUrl: 'img/marker-shadow.png',
 	iconSize: [25, 41],
 	iconAnchor: [12, 41],
